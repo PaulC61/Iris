@@ -1,0 +1,48 @@
+
+
+.root{
+	-fx-font-size: 12pt;
+	-fx-font-family: "Montserrat";
+	-fx-font-weight: 600;
+}
+
+.button{
+	-fx-padding: 15px;
+	-fx-background-color: white;
+	-fx-font-color: black;
+	-fx-border-radius: 5px;
+	-fx-border-color: black;
+	-fx-border-weight: 1px;
+}
+
+.table-view .column-header {
+	-fx-font-size: 11pt;
+	-fx-background-color: white;
+	-fx-font-weight: 600;
+}
+
+.table-view .table-cell{
+	-fx-font-size: 10pt;
+	-fx-border-color: white;
+	-fx-padding: 2 0 2 10px;
+	-fx-alignment: center;
+}
+
+.table-view .column-header-background .filler{
+	-fx-background-color: white;
+}
+
+#apply-model{
+	-fx-font-color: #FFFFFF;
+	-fx-background-color: rgba(11, 80, 119, 1);
+	-fx-border-color: rgba(11, 80, 119, 1);
+	
+}
+
+#iris-banner{
+	-fx-font-size: 30px;
+}
+
+#unistra-banner{
+	-fx-font-size: 10px;
+}
